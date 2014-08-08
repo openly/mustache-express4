@@ -1,0 +1,12 @@
+{
+  "name": "mustache-express4",
+  "version": "0.0.1",
+  "description": "Mustache view engine for express 4.x",
+  "homepage": "http://github.com/openly/mustache-express4",
+  "repository": "http://github.com/openly/mustache-express4.git",
+  "author": "Abhilash Hebbar<abhi.h@openly.co>",
+  "main": "lib/mustache-express",
+  "dependencies": {
+    "mustache": "^0.8.2"
+  }
+}
