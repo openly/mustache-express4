@@ -7,6 +7,6 @@
   "author": "Abhilash Hebbar<abhi.h@openly.co>",
   "main": "lib/mustache-express",
   "dependencies": {
-    "mustache": "^0.8.2"
+    "mustache": "^2.2.1"
   }
 }
