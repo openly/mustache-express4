@@ -1,6 +1,6 @@
 {
   "name": "mustache-express4",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Mustache view engine for express 4.x",
   "homepage": "http://github.com/openly/mustache-express4",
   "repository": "http://github.com/openly/mustache-express4.git",
